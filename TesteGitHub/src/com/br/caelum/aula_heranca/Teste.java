@@ -7,8 +7,8 @@ public class Teste {
 		
 		Funcionarios objFunc1 = new Funcionarios("Diego Silva","02234-777",3000.000);	
 		
-		
-		System.out.println();
+		//Estou comentando esse Codigo
+		//System.out.println();
 		
 				
 	}
