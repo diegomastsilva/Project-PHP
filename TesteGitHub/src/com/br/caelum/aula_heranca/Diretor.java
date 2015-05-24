@@ -9,7 +9,7 @@ public class Diretor extends Funcionarios{
 	 * @param senha
 	 * @param numFuncGerenciados
 	 */
-	public Gerente(int senha, int numFuncGerenciados) {
+	public Diretor(int senha, int numFuncGerenciados) {
 		this.senha = senha;
 		this.numFuncGerenciados = numFuncGerenciados;
 	}
