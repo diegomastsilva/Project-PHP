@@ -10,7 +10,7 @@
 <meta name="author" content="">
 <link rel="icon" href="../../favicon.ico">
 
-<title>:: Projeto CodeIgniter ::</title>
+<title>:: Projeto ::</title>
 
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -35,7 +35,7 @@
 
 		<form class="form-signin">
 			<h2 class="form-signin-heading">Realize o Login</h2>
-			<label for="inputEmail" class="sr-only">usário | Matricula</label> <input
+			<label for="inputEmail" class="sr-only">usï¿½rio | Matricula</label> <input
 				type="text" id="usario" name="usario" class="form-control"
 				placeholder="Usario | Matricula" required autofocus> </br>
 				<label for="inputPassword" class="sr-only">Senha</label> 
